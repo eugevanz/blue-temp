@@ -29,7 +29,7 @@ def home():
         Div(
             Div('Item', cls='uk-card uk-card-default uk-card-body')
         ),
-        data_uk_grid='',
+        data_uk_grid=True,
         cls='uk-child-width-expand@s uk-text-center'
     )
 
